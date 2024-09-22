@@ -38,15 +38,15 @@
     ], [
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",         "&trans",         "&trans",        "&trans",          "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",         "&trans",         "&trans",        "&trans",          "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",  "&macro_quotes", "&kp UNDERSCORE", "&kp BACKSLASH",          "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",  "&macro_quotes", "&kp UNDERSCORE", "&kp BACKSLASH",       "&kp COLON", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                     "&macro_dquotes",  "&macro_braces", "&macro_parens", "&macro_brackets", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                           "&trans",        "&trans",          "&trans", "&trans", "&trans"
     ], [
-        "&kp ESC", "&trans", "&trans", "&trans", "&trans", "&trans",              "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-        "&kp TAB", "&trans", "&trans", "&trans", "&trans", "&trans",              "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&kp CAPS", "&trans", "&trans", "&trans", "&trans", "&trans",              "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-         "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                                  "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-         "&trans", "&trans", "&trans", "&trans", "&trans",                     "&kp SPACE", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
+        "&kp ESC", "&trans", "&trans", "&trans", "&trans", "&trans",              "&trans",                                                               "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+        "&kp TAB", "&trans", "&trans", "&trans", "&trans", "&trans",              "&trans",                                                               "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&kp CAPS", "&trans", "&trans", "&trans", "&trans", "&trans",              "&trans", "&trans", "&trans",                     "&trans", "&trans",   "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+         "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                                  "&trans",                     "&trans",                       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+         "&trans", "&trans", "&trans", "&trans", "&trans",                     "&kp SPACE", "&trans", "&trans",                     "&trans", "&trans", "&kp BSPC",           "&trans", "&trans", "&trans", "&trans", "&trans"
     ]
   ]
 }
