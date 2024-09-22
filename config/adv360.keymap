@@ -90,11 +90,11 @@
 
         layer_Game {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans               &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans               &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans               &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans                               &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans                    &kp SPACE  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+  &kp ESC  &trans  &trans  &trans  &trans  &trans               &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+  &kp TAB  &trans  &trans  &trans  &trans  &trans               &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &kp CAPS  &trans  &trans  &trans  &trans  &trans               &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+   &trans  &trans  &trans  &trans  &trans  &trans                               &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
+   &trans  &trans  &trans  &trans  &trans                    &kp SPACE  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
             >;
         };
 
