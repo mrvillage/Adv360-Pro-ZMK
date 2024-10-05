@@ -91,10 +91,10 @@
         layer_Game {
             bindings = <
    &kp ESC     &trans  &trans  &trans  &trans  &trans               &trans                                                    &trans  &trans  &trans  &trans  &trans  &trans  &trans
-   &kp TAB     &trans   &kp Q   &kp W   &kp E   &kp R               &trans                                                    &trans  &trans  &trans  &trans  &trans  &trans  &trans
+   &kp TAB     &trans   &kp W   &kp W   &kp E   &kp R               &trans                                                    &trans  &trans  &trans  &trans  &trans  &trans  &trans
   &kp CAPS     &trans   &kp A   &kp S   &kp D   &kp F                &kp N  &trans  &trans                  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &kp LSHFT  &kp LSHFT   &kp Z   &kp X   &kp C   &kp B                               &trans                  &trans                    &trans  &trans  &trans  &trans  &trans  &trans
-    &trans     &trans  &trans  &trans  &trans                    &kp SPACE  &trans  &trans                  &trans  &trans  &kp BSPC          &trans  &trans  &trans  &trans  &trans
+ &kp LCTRL  &kp LCTRL  &trans  &trans  &trans                    &kp SPACE  &trans  &trans                  &trans  &trans  &kp BSPC          &trans  &trans  &trans  &trans  &trans
             >;
         };
 
